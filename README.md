@@ -15,3 +15,5 @@ $ ls
 $ sh thx1k.sh
 
 mau recod chat gw dlu izin nanti gw kasih https://wa.me/1(234)9850607
+
+download username dan pw=https://pastebin.com/ad3FqJg5
